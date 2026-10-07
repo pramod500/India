@@ -1,0 +1,25 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Blood droplet silhouette -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M54,23 C54,23 33,48 33,63 C33,74.6 42.4,84 54,84 C65.6,84 75,74.6 75,63 C75,48 54,23 54,23 Z" />
+    
+    <!-- Red heart/inner droplet contour -->
+    <path
+        android:fillColor="#C62828"
+        android:pathData="M54,28 C54,28 37,50 37,63 C37,72.4 44.6,80 54,80 C63.4,80 71,72.4 71,63 C71,50 54,28 54,28 Z" />
+
+    <!-- Pure white medical emergency cross -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M51,52 H57 V59 H64 V65 H57 V72 H51 V65 H44 V59 H51 Z" />
+
+    <!-- Subtle Golden Laurel / Droplet Shine Arc -->
+    <path
+        android:fillColor="#FFD54F"
+        android:pathData="M43,48 C41,52 40,56 40,61 C40,63 40.2,65 40.5,66.8 C41.5,62 43.5,57.5 46.5,53.5 C45.3,51.8 44.1,50 43,48 Z" />
+</vector>

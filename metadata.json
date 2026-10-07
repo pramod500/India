@@ -1,0 +1,6 @@
+{
+  "name": "National Blood Finder",
+  "description": "National Blood Emergency & Donor Finder (राष्ट्रीय रक्तसुरक्षा व आपत्कालीन रक्तदाता शोध प्रणाली) - Nationwide emergency blood network and donor matching platform",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
